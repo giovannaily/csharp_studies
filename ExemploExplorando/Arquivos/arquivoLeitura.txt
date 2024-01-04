@@ -1,0 +1,2 @@
+string 1 = Linha 1 do arquiuvo e leitura
+string 2 = Linha 2 do arquiuvo e leitura 
